@@ -1,6 +1,6 @@
-# CMU CS Academy, year 1
+# CMU CS Academy projects and lessons
 
-This repository showcases my creative tasks and lessons I found cool from CMU's CS Academy course.
+This repository showcases my creative tasks and lessons I found cool from CMU's CS Academy.
 
 ## Table of Contents
 
