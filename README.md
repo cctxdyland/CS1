@@ -10,11 +10,11 @@ This repository showcases my creative tasks and lessons I found cool from CMU's 
 
 ## Unit 1
 
-- [Creative Task](./Unit 1/README.md)
+- [Creative Task](./Unit%201/README.md)
 
 ## Unit 2
 
-- [Creative Task](./Unit 2/README.md)
+- [Creative Task](./Unit%202/README.md)
 
 
 ---
